@@ -1,5 +1,7 @@
 # Хиральные подземелья (NeuRogue)
 
+> Public source preview: see [PUBLICATION.md](PUBLICATION.md) for actual checks, known failures and runtime limits.
+
 Roguelike на сетке 10×10 с неевклидовой геометрией.
 
 ## Установка
@@ -54,3 +56,8 @@ src/
 - [ ] UI
 - [ ] Сохранение/загрузка
 
+
+
+## Public source status — 2026-10-29
+
+See [PUBLICATION.md](PUBLICATION.md) for the current verification scope, prototype limitations and runtime boundaries. Earlier audit checklists describe historical work.
